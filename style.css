@@ -1,0 +1,84 @@
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 3%;
+    margin-bottom: 50px;
+    font-family: "Nerko One", cursive;
+    font-weight: 400;
+    font-style: normal;   
+}
+
+h1 {
+    font-size: 10vw;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: white;
+}
+
+section#imagen1 {
+    background-image: url('joaninhacerta.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: right center; 
+    height: 450px;
+    
+
+}
+
+.paragrafo1 {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 3vw;
+}
+
+.textoimagen1 {
+    background-color: rgba(255, 255, 255, 0.301);
+    width: 230px;
+    margin-left: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+
+section#imagem2 {
+    background-image: url('rosas.png');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: right center; 
+    height: 450px;
+}
+
+p {
+    font-family: "Vibur", cursive;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 35px;
+    font-weight: bold;
+    padding: 20px;
+    margin-left: 20px;
+}   
+
+footer {
+    background-color: black;
+    
+}
+
+p#ultimo {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-size: smaller;
+}
