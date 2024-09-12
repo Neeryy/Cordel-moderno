@@ -19,6 +19,7 @@ h1 {
     font-size: 10vw;
     margin: 0;
     padding: 0;
+    font-variant: small-caps;
 }
 
 a {
@@ -30,7 +31,7 @@ section#imagen1 {
     background-size: cover;
     background-attachment: fixed;
     background-position: right center; 
-    height: 450px;
+    
     
 
 }
@@ -43,6 +44,7 @@ section#imagen1 {
 }
 
 .textoimagen1 {
+    display: inline-block;
     background-color: rgba(255, 255, 255, 0.301);
     width: 230px;
     margin-left: 20px;
@@ -56,7 +58,7 @@ section#imagem2 {
     background-size: cover;
     background-attachment: fixed;
     background-position: right center; 
-    height: 450px;
+    
 }
 
 p {
