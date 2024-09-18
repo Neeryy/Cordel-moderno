@@ -34,9 +34,6 @@ section#imagen1 {
     background-size: cover;
     background-attachment: fixed;
     background-position: right center; 
-    
-    
-    
 
 }
 
@@ -67,7 +64,6 @@ section#imagem2 {
 }
 
 p {
-    font-family: "Vibur", cursive;
     font-weight: 400;
     font-style: normal;
     line-height: 35px;
