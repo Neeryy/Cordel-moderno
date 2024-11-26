@@ -1,8 +1,8 @@
 {
     "name": "desafio-cordel",
     "short_name": "desafiocordel",
-    "start_url": "/Cordel-moderno/",
-    "scope": "/Cordel-moderno/",
+    "start_url": "Cordel-moderno/",
+    "scope": "Cordel-moderno/",
     "theme_color": "#812ff4",
     "background_color": "#2EC6FE",
     "icons": [
