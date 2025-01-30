@@ -20,7 +20,12 @@
   "dir": "auto",
   "lang": "pt-BR",
   "name": "Desafio Cordel",
-  "short_name": "DesafioCordel",
+  "short_name": "Desafio Cordel",
   "start_url": "/Cordel-moderno/",
-  "scope": "/Cordel-moderno/"
+  "scope": "/Cordel-moderno/",
+  "id": "Dc",
+  "description": "Um app para voce fazer leituras em qualquer lugar",
+  "categories": [
+    "books"
+  ]
 }
